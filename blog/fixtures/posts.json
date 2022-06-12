@@ -1,0 +1,184 @@
+[
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Apple cake",
+    "slug": "apple-cake",
+    "author": 1,
+    "body": "Apple cakes are cakes in which apples feature as a main flavour and ingredient. Such cakes incorporate apples in a variety of forms, including diced, pureed, or stewed, and can include common additions like raisins, nuts, and 'sweet' spices such as cinnamon or nutmeg. They are a common and popular dessert worldwide, thanks to millennia of apple cultivation in Asia and Europe, and their widespread introduction and propagation throughout the Americas during the Columbian Exchange and colonisation. As a result, apple desserts, including cakes, have a huge number of variations.\r\n\r\nApples are also used in other cakes to add moisture and sweetness, often as a partial substitute for refined sugar.",
+    "publish": "2022-06-12T11:51:58Z",
+    "created": "2022-06-12T11:52:54.053Z",
+    "updated": "2022-06-12T11:52:54.053Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Bara brith",
+    "slug": "bara-brith",
+    "author": 1,
+    "body": "Bara brith is a traditional Welsh tea bread flavoured with tea, dried fruits and spices.\r\n\r\nA decrease in its popularity led to supermarket Morrisons removing it from their shelves in 2006, and a year later a survey showed that 36% of teenagers in Wales had never tried it. It has been subsequently championed by celebrity chefs such as Bryn Williams. Several variations on bara brith have been made, including changing it into a chocolate and into ice cream. \r\n\r\nThe bread is made by mixing flour (either white or self-raising), yeast (if not using self-raising flour), butter, mixed dried fruit (such as raisins, currants and sultanas), mixed spices and an egg. Some recipes favour soaking the dried fruit in tea overnight before the baking. This mixture is then proofed to allow fermentation to take place. After an initial period, the air is knocked out of the mixture and it is allowed to proof once more. This period of preparation can take up to two hours, including the resting time for the bread mixture. It is then baked in an oven.Bara brith is traditionally served at tea time, alongside tea. It is normally served in slices with butter spread on one side.",
+    "publish": "2022-06-12T11:52:57Z",
+    "created": "2022-06-12T11:54:32.445Z",
+    "updated": "2022-06-12T11:54:32.445Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Banana cake",
+    "slug": "banana-cake",
+    "author": 1,
+    "body": "A banana cake is a cake prepared using banana as a primary ingredient and typical cake ingredients. It can be prepared in various manners, including as a layer cake, as muffins and as cupcakes. Steamed banana cake is found in Chinese, Indonesian and Vietnamese cuisine.In the Philippines, the term \"banana cake\" refers to banana bread introduced during the American colonial period of the Philippines.\r\n\r\nBanana cake is prepared using banana as a primary ingredient and typical cake ingredients such as flour, sugar, eggs, butter, margarine or oil and baking soda. The bananas can be mashed or puréed using a food processor or electric mixer and mixed into the cake batter, and the cake can also be topped or garnished with sliced bananas. Banana cake may be prepared as a use for browned or overly-ripe bananas. Chocolate may be used as an ingredient, which along with the banana is an enjoyable flavor combination for some people. Nuts such as walnuts and macadamias may be used in the batter and to top and garnish the cake.",
+    "publish": "2022-06-12T11:54:34Z",
+    "created": "2022-06-12T11:56:10.773Z",
+    "updated": "2022-06-12T11:56:10.773Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Chocolate brownie",
+    "slug": "chocolate-brownie",
+    "author": 1,
+    "body": "A chocolate brownie or simply a brownie is a square or rectangular chocolate baked confection. Brownies come in a variety of forms and may be either fudgy or cakey, depending on their density. Brownies often, but not always, have a glossy \"skin\" on their upper crust. They may also include nuts, frosting, cream cheese, chocolate chips, or other ingredients. A variation made with brown sugar and vanilla rather than chocolate in the batter is called a blond brownie or blondie. The brownie was developed in the United States at the end of the 19th century and popularized there during the first half of the 20th century.\r\n\r\nThey are typically eaten by hand, often accompanied by milk, served warm with ice cream (a la mode), topped with whipped cream, or sprinkled with powdered sugar and fudge. In North America, they are common homemade treats and they are also popular in restaurants and coffeehouses.",
+    "publish": "2022-06-12T11:56:19Z",
+    "created": "2022-06-12T11:56:46.614Z",
+    "updated": "2022-06-12T11:56:46.614Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Opera cake",
+    "slug": "opera-cake",
+    "author": 1,
+    "body": "Opera cake (French: Gâteau opéra) is a French cake. It is made with layers of almond sponge cake (known as Joconde in French) soaked in coffee syrup, layered with ganache and coffee (or Grand Marnier) French buttercream, and covered in a chocolate glaze. Its namesake originates from the layers resembling the levels of an opera house.\r\n\r\nAccording to Larousse Gastronomique, \"Opéra gâteau is an elaborate almond sponge cake with a coffee and chocolate filling and icing.\" Traditionally, the word Opera is also written on top of the chocolate glaze. Edible gold leaf is sometimes added to the presentation.",
+    "publish": "2022-06-12T11:58:23Z",
+    "created": "2022-06-12T11:58:48.456Z",
+    "updated": "2022-06-12T11:58:48.456Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Bazlama",
+    "slug": "bazlama",
+    "author": 1,
+    "body": "Bazlama is a leavened, circular flatbread from Turkish cuisine. It has an average thickness of 2 cm and diameters ranging from 10 to 25 cm.\r\n\r\nThis popular flatbread is made from wheat flour, water, salt and yeast. After mixing and two to three hours fermentation, 200- to 250-gram pieces of dough are divided, rounded, flattened to a desired thickness and baked on a hot surface. During baking, the bread is turned over to bake the other side. After baking, it is generally consumed fresh. Shelf life of bazlama varies from several hours to a few days, depending on storage conditions.",
+    "publish": "2022-06-12T12:01:55Z",
+    "created": "2022-06-12T12:02:40.240Z",
+    "updated": "2022-06-12T12:02:40.240Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Boule",
+    "slug": "boule",
+    "author": 1,
+    "body": "Boule, from French, meaning \"ball\", is a traditional shape of French bread resembling a squashed ball. A boule can be made using any type of flour and can be leavened with commercial yeast, chemical leavening, or even wild yeast sourdough. The name of this rustic loaf shape is reason the French call bread bakers \"boulangers\" and bread bakeries \"boulangeries\".",
+    "publish": "2022-06-12T12:03:10Z",
+    "created": "2022-06-12T12:03:27.473Z",
+    "updated": "2022-06-12T12:03:27.473Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "Challah",
+    "slug": "challah",
+    "author": 1,
+    "body": "Challah (Hebrew: חַלָּה  Challoth or challos) is a special bread of Ashkenazi Jewish origin, usually braided and typically eaten on ceremonial occasions such as Shabbat and major Jewish holidays (other than Passover). Ritually acceptable challah is made of dough from which a small portion has been set aside as an offering. Challah may also refer to the dough offering. Non-Religious Jews traditionally refer to bread on Shabbat as hallah. The word is biblical in origin, though originally referred only to the dough offering.Similar braided breads such as kalach and vánočka are found across Eastern Europe.",
+    "publish": "2022-06-12T12:03:42Z",
+    "created": "2022-06-12T12:04:40.113Z",
+    "updated": "2022-06-12T12:04:40.113Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 9,
+  "fields": {
+    "title": "Injera",
+    "slug": "injera",
+    "author": 1,
+    "body": "Injera (Amharic: እንጀራ, romanized: ənǧära, [ɨndʒəra]; Oromo: Biddeena; Tigrinya: ጣይታ, romanized: ṭayta) is a sour fermented flatbread with a slightly spongy texture, traditionally made of teff flour. In Ethiopia, Eritrea, and some parts of Sudan, injera is the staple; also eaten in other countries in East Africa, injera is central to the dining process, like bread or rice elsewhere.",
+    "publish": "2022-06-12T12:06:18Z",
+    "created": "2022-06-12T12:06:51.026Z",
+    "updated": "2022-06-12T12:06:51.026Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 10,
+  "fields": {
+    "title": "Feta",
+    "slug": "feta",
+    "author": 1,
+    "body": "Feta (Greek: φέτα, féta) is a Greek brined white cheese made from sheep's milk or from a mixture of sheep and goat's milk. It is soft, with small or no holes, a compact touch, few cuts, and no skin. Crumbly with a slightly grainy texture, it is formed into large blocks and aged in brine. Its flavor is tangy and salty, ranging from mild to sharp. Feta is used as a table cheese, in salads such as Greek salad, and in pastries, notably the phyllo-based Greek dishes spanakopita \"spinach pie\" and tyropita \"cheese pie\". It is often served with olive oil or olives, and sprinkled with aromatic herbs such as oregano. It can also be served cooked (often grilled), as part of a sandwich, in omelettes, and many other dishes.\r\n\r\nSince 2002, feta has been a protected designation of origin in the European Union. EU legislation and similar legislation in 25 other countrieslimits the name feta to cheeses produced in the traditional way in mainland Greece and Lesbos Prefecture, which are made from sheep's milk, or from a mixture of sheep's and up to 30% of goat's milk from the same area.\r\n\r\nSimilar white, brined cheeses (often called \"white cheese\" in various languages) are made traditionally in the Balkans and around the Black Sea, and more recently elsewhere. Outside the EU, the name feta is often used generically for these cheeses.",
+    "publish": "2022-06-12T12:08:42Z",
+    "created": "2022-06-12T12:10:18.133Z",
+    "updated": "2022-06-12T12:10:18.133Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 11,
+  "fields": {
+    "title": "Kashkaval",
+    "slug": "kashkaval",
+    "author": 1,
+    "body": "Kashkaval[a] is a type of cheese made from cow's milk, sheep's milk or both. In Albania, Bulgaria, North Macedonia, Serbia and Romania, the term is often used to refer to all yellow cheeses (or even any cheese other than sirene). In English-language menus in Bulgaria, kashkaval is translated as \"yellow cheese\" (whereas sirene is usually translated as \"white cheese\" or simply \"cheese\").",
+    "publish": "2022-06-12T12:10:21Z",
+    "created": "2022-06-12T12:11:10.059Z",
+    "updated": "2022-06-12T12:11:10.059Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 12,
+  "fields": {
+    "title": "Labneh",
+    "slug": "labneh",
+    "author": 1,
+    "body": "Strained yogurt, Greek yogurt, yogurt cheese, sack yogurt, or kerned yogurt is yogurt that has been strained to remove most of its whey, resulting in a thicker consistency than normal unstrained yogurt, while still preserving the distinctive sour taste of yogurt. Like many types, strained yogurt is often made from milk enriched by boiling off some water content, or by adding extra butterfat and powdered milk. In Europe and North America, it is often made from low-fat or fat-free cow's milk. In Iceland, a similar product named skyr is made.\r\n\r\nStrained yogurt is generally marketed in North America as \"Greek yogurt\" and in the UK as \"Greek-style yogurt\", though strained yogurt is also widely eaten in Levantine, Eastern Mediterranean, Middle Eastern, Central Asian and South Asian cuisines, where it is often used in cooking, as it curdles less readily when cooked. It is used in a variety of dishes, cooked or raw, savory or sweet. Straining makes even nonfat varieties thicker, richer, and creamier than unstrained. Since straining removes the whey, more milk is required to make strained yogurt, increasing the production cost. Thickeners such as pectin, locust bean gum, starches or guar gum may also be used to thicken yogurts. In western Europe and the US, strained yogurt has increased in popularity compared to unstrained yogurt. Since the straining process removes some of the lactose, strained yogurt is lower in sugar than unstrained yogurt.\r\n\r\nIt was reported in 2012 that most of the growth in the $4.1 billion American yogurt industry came from the strained yogurt sub-segment, typically marketed as \"Greek yogurt\". In the US, there is no legal or standard definition of Greek yogurt, and yogurt thickened with thickening agents may also be sold as \"Greek yogurt\".",
+    "publish": "2022-06-12T12:16:15Z",
+    "created": "2022-06-12T12:17:17.592Z",
+    "updated": "2022-06-12T12:17:17.592Z",
+    "status": "published"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 13,
+  "fields": {
+    "title": "Passendale",
+    "slug": "passendale",
+    "author": 1,
+    "body": "Passendale cheese, named for Passendale, the village where it originated, is one of the best-known cheeses of Belgium. Regular Passendale cheese is produced in two versions, Classic and Prelude. There is also a premium version, Passendale Bel Age.\r\n\r\nPassendale Cheese resembles a loaf of bread, with a round shape, and a hard but edible brown rind with spots of white. Inside, the flesh is golden, dotted with small holes and very creamy. It has a firm and damp consistency, slightly sweet bouquet and mild flavor.",
+    "publish": "2022-06-12T12:19:44Z",
+    "created": "2022-06-12T12:20:04.900Z",
+    "updated": "2022-06-12T12:20:04.900Z",
+    "status": "published"
+  }
+}
+]
